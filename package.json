@@ -1,0 +1,36 @@
+{
+  "name": "cricket-club-website",
+  "version": "1.0.0",
+  "description": "A website for the local cricket club, featuring member registration, login, and club information.",
+  "main": "src/app/page.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "prisma": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "jest": "latest",
+    "ts-jest": "latest",
+    "@types/jest": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  },
+  "keywords": [
+    "cricket",
+    "club",
+    "website",
+    "members",
+    "registration"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
